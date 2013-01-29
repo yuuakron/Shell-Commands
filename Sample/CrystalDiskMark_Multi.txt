@@ -1,0 +1,348 @@
+共通
+-----------------------------------------------------------------------
+CrystalDiskMark 3.0.1 x64 (C) 2007-2010 hiyohiyo
+                           Crystal Dew World : http://crystalmark.info/
+-----------------------------------------------------------------------
+* MB/s = 1,000,000 byte/s [SATA/300 = 300,000,000 byte/s]
+
+OS : Windows 7  SP1 [6.1 Build 7601] (x64)
+
+
+Platform : HDD WD20EARS デバイスの書き込みキャッシュ有効
+
+           Sequential Read :   124.845 MB/s
+          Sequential Write :   123.304 MB/s
+         Random Read 512KB :    40.564 MB/s
+        Random Write 512KB :    73.808 MB/s
+    Random Read 4KB (QD=1) :     0.537 MB/s [   131.0 IOPS]
+   Random Write 4KB (QD=1) :     1.130 MB/s [   275.8 IOPS]
+   Random Read 4KB (QD=32) :     1.622 MB/s [   395.9 IOPS]
+  Random Write 4KB (QD=32) :     1.011 MB/s [   246.8 IOPS]
+
+  Test : 1000 MB [E: 0.0% (0.2/1862.9 GB)] (x3)
+  Date : 2012/05/19 23:16:27
+
+Platform : HDD WD20EARS デバイスの書き込みキャッシュ有効 デバイスでWindowsによる書き込みキャッシュバッファーのフラッシュをオフ
+           Sequential Read :   124.209 MB/s
+          Sequential Write :   122.311 MB/s
+         Random Read 512KB :    40.479 MB/s
+        Random Write 512KB :    73.819 MB/s
+    Random Read 4KB (QD=1) :     0.549 MB/s [   134.2 IOPS]
+   Random Write 4KB (QD=1) :     1.138 MB/s [   277.8 IOPS]
+   Random Read 4KB (QD=32) :     1.554 MB/s [   379.5 IOPS]
+  Random Write 4KB (QD=32) :     1.039 MB/s [   253.7 IOPS]
+
+  Test : 1000 MB [E: 0.0% (0.2/1862.9 GB)] (x3)
+  Date : 2012/05/19 23:46:41
+
+Platform : HDD WD20EARS デバイスの書き込みキャッシュ無効
+
+           Sequential Read :   124.121 MB/s
+          Sequential Write :    50.870 MB/s
+         Random Read 512KB :    40.505 MB/s
+        Random Write 512KB :    33.945 MB/s
+    Random Read 4KB (QD=1) :     0.541 MB/s [   132.0 IOPS]
+   Random Write 4KB (QD=1) :     0.451 MB/s [   110.2 IOPS]
+   Random Read 4KB (QD=32) :     1.733 MB/s [   423.0 IOPS]
+  Random Write 4KB (QD=32) :     0.980 MB/s [   239.1 IOPS]
+
+  Test : 1000 MB [E: 0.0% (0.2/1862.9 GB)] (x3)
+  Date : 2012/05/19 23:30:46
+
+Platform : HDD WD20EARX デバイスの書き込みキャッシュ有効
+
+           Sequential Read :   124.593 MB/s
+          Sequential Write :   123.304 MB/s
+         Random Read 512KB :    40.682 MB/s
+        Random Write 512KB :    80.541 MB/s
+    Random Read 4KB (QD=1) :     0.539 MB/s [   131.5 IOPS]
+   Random Write 4KB (QD=1) :     1.398 MB/s [   341.4 IOPS]
+   Random Read 4KB (QD=32) :     1.713 MB/s [   418.3 IOPS]
+  Random Write 4KB (QD=32) :     1.293 MB/s [   315.6 IOPS]
+
+  Test : 1000 MB [D: 0.1% (1.1/1862.9 GB)] (x3)
+  Date : 2012/05/19 23:11:24
+
+Platform : HDD WD20EARX デバイスの書き込みキャッシュ有効 デバイスでWindowsによる書き込みキャッシュバッファーのフラッシュをオフ
+
+           Sequential Read :   123.843 MB/s
+          Sequential Write :   123.116 MB/s
+         Random Read 512KB :    40.629 MB/s
+        Random Write 512KB :    81.628 MB/s
+    Random Read 4KB (QD=1) :     0.528 MB/s [   128.8 IOPS]
+   Random Write 4KB (QD=1) :     1.343 MB/s [   327.8 IOPS]
+   Random Read 4KB (QD=32) :     1.714 MB/s [   418.4 IOPS]
+  Random Write 4KB (QD=32) :     1.324 MB/s [   323.1 IOPS]
+
+  Test : 1000 MB [D: 0.1% (1.1/1862.9 GB)] (x3)
+  Date : 2012/05/19 23:35:56
+
+Platform : HDD WD20EARX デバイスの書き込みキャッシュ無効
+
+           Sequential Read :   124.298 MB/s
+          Sequential Write :    51.075 MB/s
+         Random Read 512KB :    41.425 MB/s
+        Random Write 512KB :    33.945 MB/s
+    Random Read 4KB (QD=1) :     0.549 MB/s [   133.9 IOPS]
+   Random Write 4KB (QD=1) :     0.467 MB/s [   114.0 IOPS]
+   Random Read 4KB (QD=32) :     1.844 MB/s [   450.2 IOPS]
+  Random Write 4KB (QD=32) :     1.164 MB/s [   284.2 IOPS]
+
+  Test : 1000 MB [D: 0.1% (1.1/1862.9 GB)] (x3)
+  Date : 2012/05/19 23:25:22
+
+
+Platform : HDD WD20EARS×2 ソフトウェアスパン
+
+           Sequential Read :   125.158 MB/s
+          Sequential Write :   122.942 MB/s
+         Random Read 512KB :    40.182 MB/s
+        Random Write 512KB :    73.279 MB/s
+    Random Read 4KB (QD=1) :     0.523 MB/s [   127.7 IOPS]
+   Random Write 4KB (QD=1) :     1.185 MB/s [   289.4 IOPS]
+   Random Read 4KB (QD=32) :     1.586 MB/s [   387.1 IOPS]
+  Random Write 4KB (QD=32) :     1.043 MB/s [   254.6 IOPS]
+
+  Test : 1000 MB [F: 0.0% (0.2/3725.8 GB)] (x3)
+  Date : 2012/05/20 0:04:36
+
+Platform : HDD WD20EARS×2 ソフトウェアストライプ
+
+           Sequential Read :   244.082 MB/s
+          Sequential Write :   235.980 MB/s
+         Random Read 512KB :    43.845 MB/s
+        Random Write 512KB :    86.575 MB/s
+    Random Read 4KB (QD=1) :     0.546 MB/s [   133.4 IOPS]
+   Random Write 4KB (QD=1) :     1.506 MB/s [   367.8 IOPS]
+   Random Read 4KB (QD=32) :     2.180 MB/s [   532.1 IOPS]
+  Random Write 4KB (QD=32) :     1.885 MB/s [   460.2 IOPS]
+
+  Test : 1000 MB [F: 0.0% (0.2/3725.8 GB)] (x3)
+  Date : 2012/05/20 0:15:18
+
+Platform : HDD WD20EARS×2 ソフトウェアミラー
+
+           Sequential Read :   125.054 MB/s
+          Sequential Write :   121.223 MB/s
+         Random Read 512KB :    40.570 MB/s
+        Random Write 512KB :    62.667 MB/s
+    Random Read 4KB (QD=1) :     0.533 MB/s [   130.2 IOPS]
+   Random Write 4KB (QD=1) :     0.917 MB/s [   223.9 IOPS]
+   Random Read 4KB (QD=32) :     2.832 MB/s [   691.3 IOPS]
+  Random Write 4KB (QD=32) :     0.926 MB/s [   226.0 IOPS]
+
+  Test : 1000 MB [F: 0.0% (0.1/1862.9 GB)] (x3)
+  Date : 2012/05/20 0:24:59
+  
+Platform : HDD WD20EARS×2 Intel Rapid Storage RAID 0 ライトバックキャッシュ有り
+
+           Sequential Read :   249.899 MB/s
+          Sequential Write :   238.042 MB/s
+         Random Read 512KB :    38.483 MB/s
+        Random Write 512KB :    36.067 MB/s
+    Random Read 4KB (QD=1) :     0.486 MB/s [   118.7 IOPS]
+   Random Write 4KB (QD=1) :     1.905 MB/s [   465.0 IOPS]
+   Random Read 4KB (QD=32) :     2.805 MB/s [   684.9 IOPS]
+  Random Write 4KB (QD=32) :     1.853 MB/s [   452.4 IOPS]
+
+  Test : 1000 MB [E: 0.0% (0.2/3725.9 GB)] (x3)
+  Date : 2012/05/19 22:30:54
+  
+Platform : HDD WD20EARS×2 Intel Rapid Storage RAID 0 ライトバックキャッシュ無し
+
+           Sequential Read :   250.018 MB/s
+          Sequential Write :   234.292 MB/s
+         Random Read 512KB :    40.075 MB/s
+        Random Write 512KB :    86.473 MB/s
+    Random Read 4KB (QD=1) :     0.549 MB/s [   134.0 IOPS]
+   Random Write 4KB (QD=1) :     1.622 MB/s [   396.0 IOPS]
+   Random Read 4KB (QD=32) :     2.292 MB/s [   559.5 IOPS]
+  Random Write 4KB (QD=32) :     1.960 MB/s [   478.5 IOPS]
+
+  Test : 1000 MB [E: 0.0% (0.2/3725.9 GB)] (x3)
+  Date : 2012/05/19 22:16:07
+
+Platform : HDD WD20EARS×2 Intel Rapid Storage RAID 1 ライトバックキャッシュ有り
+
+           Sequential Read :    73.082 MB/s
+          Sequential Write :   121.041 MB/s
+         Random Read 512KB :    31.120 MB/s
+        Random Write 512KB :    58.677 MB/s
+    Random Read 4KB (QD=1) :     0.541 MB/s [   132.1 IOPS]
+   Random Write 4KB (QD=1) :     1.048 MB/s [   256.0 IOPS]
+   Random Read 4KB (QD=32) :     2.841 MB/s [   693.5 IOPS]
+  Random Write 4KB (QD=32) :     0.926 MB/s [   226.0 IOPS]
+
+  Test : 1000 MB [E: 0.0% (0.2/1862.9 GB)] (x3)
+  Date : 2012/05/19 23:01:32
+
+Platform : HDD WD20EARS×2 Intel Rapid Storage RAID 1 ライトバックキャッシュ無し
+
+           Sequential Read :    89.875 MB/s
+          Sequential Write :   121.223 MB/s
+         Random Read 512KB :    29.217 MB/s
+        Random Write 512KB :    69.118 MB/s
+    Random Read 4KB (QD=1) :     0.523 MB/s [   127.7 IOPS]
+   Random Write 4KB (QD=1) :     0.966 MB/s [   235.9 IOPS]
+   Random Read 4KB (QD=32) :     2.838 MB/s [   692.8 IOPS]
+  Random Write 4KB (QD=32) :     0.935 MB/s [   228.3 IOPS]
+
+  Test : 1000 MB [E: 0.0% (0.2/1862.9 GB)] (x3)
+  Date : 2012/05/19 22:48:44
+  
+
+Platform : HDD WD20EARX×2 ソフトウェアスパン
+
+           Sequential Read :   125.158 MB/s
+          Sequential Write :   122.426 MB/s
+         Random Read 512KB :    40.092 MB/s
+        Random Write 512KB :    79.008 MB/s
+    Random Read 4KB (QD=1) :     0.545 MB/s [   133.0 IOPS]
+   Random Write 4KB (QD=1) :     1.318 MB/s [   321.7 IOPS]
+   Random Read 4KB (QD=32) :     1.665 MB/s [   406.6 IOPS]
+  Random Write 4KB (QD=32) :     1.260 MB/s [   307.6 IOPS]
+
+  Test : 1000 MB [E: 0.0% (0.2/3725.8 GB)] (x3)
+  Date : 2012/05/20 0:00:26
+
+Platform : HDD WD20EARX×2 ソフトウェアストライプ
+
+           Sequential Read :   228.026 MB/s
+          Sequential Write :   212.520 MB/s
+         Random Read 512KB :    43.416 MB/s
+        Random Write 512KB :    92.749 MB/s
+    Random Read 4KB (QD=1) :     0.546 MB/s [   133.2 IOPS]
+   Random Write 4KB (QD=1) :     1.859 MB/s [   453.9 IOPS]
+   Random Read 4KB (QD=32) :     2.629 MB/s [   641.7 IOPS]
+  Random Write 4KB (QD=32) :     2.019 MB/s [   492.8 IOPS]
+
+  Test : 1000 MB [E: 0.0% (0.2/3725.8 GB)] (x3)
+  Date : 2012/05/20 0:11:13
+  
+Platform : HDD WD20EARX×2 ソフトウェアミラー
+
+           Sequential Read :   125.009 MB/s
+          Sequential Write :   112.099 MB/s
+         Random Read 512KB :    40.551 MB/s
+        Random Write 512KB :    64.622 MB/s
+    Random Read 4KB (QD=1) :     0.539 MB/s [   131.6 IOPS]
+   Random Write 4KB (QD=1) :     1.053 MB/s [   257.0 IOPS]
+   Random Read 4KB (QD=32) :     2.921 MB/s [   713.1 IOPS]
+  Random Write 4KB (QD=32) :     1.101 MB/s [   268.8 IOPS]
+
+  Test : 1000 MB [E: 0.0% (0.2/1862.9 GB)] (x3)
+  Date : 2012/05/20 0:20:56
+  
+Platform : HDD WD20EARX×2 Intel Rapid Storage RAID 0 ライトバックキャッシュ有り
+
+           Sequential Read :   233.043 MB/s
+          Sequential Write :   219.344 MB/s
+         Random Read 512KB :    38.955 MB/s
+        Random Write 512KB :    34.873 MB/s
+    Random Read 4KB (QD=1) :     0.503 MB/s [   122.9 IOPS]
+   Random Write 4KB (QD=1) :     2.150 MB/s [   524.8 IOPS]
+   Random Read 4KB (QD=32) :     2.795 MB/s [   682.3 IOPS]
+  Random Write 4KB (QD=32) :     2.153 MB/s [   525.6 IOPS]
+
+  Test : 1000 MB [D: 0.0% (0.2/3725.9 GB)] (x3)
+  Date : 2012/05/19 22:24:24
+
+Platform : HDD WD20EARX×2 Intel Rapid Storage RAID 0 ライトバックキャッシュ無し
+
+           Sequential Read :   229.926 MB/s
+          Sequential Write :   215.801 MB/s
+         Random Read 512KB :    40.182 MB/s
+        Random Write 512KB :    90.867 MB/s
+    Random Read 4KB (QD=1) :     0.544 MB/s [   132.9 IOPS]
+   Random Write 4KB (QD=1) :     1.857 MB/s [   453.3 IOPS]
+   Random Read 4KB (QD=32) :     2.486 MB/s [   607.0 IOPS]
+  Random Write 4KB (QD=32) :     2.244 MB/s [   548.0 IOPS]
+
+  Test : 1000 MB [D: 0.0% (0.2/3725.9 GB)] (x3)
+  Date : 2012/05/19 22:11:38
+  
+Platform : HDD WD20EARX×2 Intel Rapid Storage RAID 1 ライトバックキャッシュ有り
+
+           Sequential Read :    79.305 MB/s
+          Sequential Write :    78.240 MB/s
+         Random Read 512KB :    18.878 MB/s
+        Random Write 512KB :    26.253 MB/s
+    Random Read 4KB (QD=1) :     0.481 MB/s [   117.3 IOPS]
+   Random Write 4KB (QD=1) :     1.074 MB/s [   262.2 IOPS]
+   Random Read 4KB (QD=32) :     2.798 MB/s [   683.1 IOPS]
+  Random Write 4KB (QD=32) :     1.086 MB/s [   265.2 IOPS]
+
+  Test : 1000 MB [D: 0.0% (0.1/1862.9 GB)] (x3)
+  Date : 2012/05/19 22:56:58
+
+Platform : HDD WD20EARX×2 Intel Rapid Storage RAID 1 ライトバックキャッシュ無し
+
+           Sequential Read :    79.007 MB/s
+          Sequential Write :   111.860 MB/s
+         Random Read 512KB :    18.485 MB/s
+        Random Write 512KB :    64.591 MB/s
+    Random Read 4KB (QD=1) :     0.523 MB/s [   127.7 IOPS]
+   Random Write 4KB (QD=1) :     1.040 MB/s [   254.0 IOPS]
+   Random Read 4KB (QD=32) :     2.913 MB/s [   711.1 IOPS]
+  Random Write 4KB (QD=32) :     1.056 MB/s [   257.8 IOPS]
+
+  Test : 1000 MB [D: 0.0% (0.1/1862.9 GB)] (x3)
+  Date : 2012/05/19 22:42:59
+
+
+
+Platform : HDD WD20EARS×2 WD20EARX×2 Intel Rapid Storage RAID5 ライトバックキャッシュ有り
+
+           Sequential Read :   322.193 MB/s
+          Sequential Write :   216.558 MB/s
+         Random Read 512KB :    26.198 MB/s
+        Random Write 512KB :     9.270 MB/s
+    Random Read 4KB (QD=1) :     0.605 MB/s [   147.7 IOPS]
+   Random Write 4KB (QD=1) :     0.981 MB/s [   239.6 IOPS]
+   Random Read 4KB (QD=32) :     4.447 MB/s [  1085.6 IOPS]
+  Random Write 4KB (QD=32) :     0.947 MB/s [   231.3 IOPS]
+
+  Test : 1000 MB [D: 0.0% (0.3/5588.9 GB)] (x3)
+  Date : 2012/05/19 20:50:14
+
+Platform : HDD WD20EARS×2 WD20EARX×2 Intel Rapid Storage RAID5 ライトバックキャッシュ無し
+
+           Sequential Read :   318.136 MB/s
+          Sequential Write :    17.874 MB/s
+         Random Read 512KB :    29.180 MB/s
+        Random Write 512KB :    10.459 MB/s
+    Random Read 4KB (QD=1) :     0.575 MB/s [   140.3 IOPS]
+   Random Write 4KB (QD=1) :     0.306 MB/s [    74.6 IOPS]
+   Random Read 4KB (QD=32) :     4.931 MB/s [  1203.8 IOPS]
+  Random Write 4KB (QD=32) :     0.926 MB/s [   226.0 IOPS]
+
+  Test : 1000 MB [D: 0.0% (0.3/5588.9 GB)] (x3)
+  Date : 2012/05/19 21:02:49
+
+Platform : HDD WD20EARS×2 WD20EARX×2 Intel Rapid Storage RAID10 ライトバックキャッシュ有り
+
+           Sequential Read :   215.247 MB/s
+          Sequential Write :   214.806 MB/s
+         Random Read 512KB :    37.262 MB/s
+        Random Write 512KB :    35.409 MB/s
+    Random Read 4KB (QD=1) :     0.519 MB/s [   126.7 IOPS]
+   Random Write 4KB (QD=1) :     1.958 MB/s [   478.0 IOPS]
+   Random Read 4KB (QD=32) :     4.586 MB/s [  1119.7 IOPS]
+  Random Write 4KB (QD=32) :     1.844 MB/s [   450.3 IOPS]
+
+  Test : 1000 MB [D: 0.0% (0.2/3725.9 GB)] (x3)
+  Date : 2012/05/19 21:44:23
+  
+Platform : HDD WD20EARS×2 WD20EARX×2 Intel Rapid Storage RAID10 ライトバックキャッシュ無し
+
+           Sequential Read :   228.423 MB/s
+          Sequential Write :   226.866 MB/s
+         Random Read 512KB :    37.886 MB/s
+        Random Write 512KB :    87.841 MB/s
+    Random Read 4KB (QD=1) :     0.545 MB/s [   133.1 IOPS]
+   Random Write 4KB (QD=1) :     1.692 MB/s [   413.2 IOPS]
+   Random Read 4KB (QD=32) :     4.296 MB/s [  1048.7 IOPS]
+  Random Write 4KB (QD=32) :     1.932 MB/s [   471.7 IOPS]
+
+  Test : 1000 MB [D: 0.0% (0.2/3725.9 GB)] (x3)
+  Date : 2012/05/19 21:38:18

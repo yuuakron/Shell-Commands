@@ -1,0 +1,17 @@
+-----------------------------------------------------------------------
+CrystalDiskMark 3.0.1 x64 (C) 2007-2010 hiyohiyo
+                           Crystal Dew World : http://crystalmark.info/
+-----------------------------------------------------------------------
+* MB/s = 1,000,000 byte/s [SATA/300 = 300,000,000 byte/s]
+
+           Sequential Read :   124.845 MB/s
+          Sequential Write :   123.304 MB/s
+         Random Read 512KB :    40.564 MB/s
+        Random Write 512KB :    73.808 MB/s
+    Random Read 4KB (QD=1) :     0.537 MB/s [   131.0 IOPS]
+   Random Write 4KB (QD=1) :     1.130 MB/s [   275.8 IOPS]
+   Random Read 4KB (QD=32) :     1.622 MB/s [   395.9 IOPS]
+  Random Write 4KB (QD=32) :     1.011 MB/s [   246.8 IOPS]
+
+  Test : 1000 MB [E: 0.0% (0.2/1862.9 GB)] (x3)
+  Date : 2012/05/19 23:16:27

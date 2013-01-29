@@ -1,0 +1,43 @@
+Results	176.91	
+	System Info		
+		Xbench Version		1.3
+		System Version		10.8.2 (12C60)
+		Physical RAM		8192 MB
+		Model		Macmini3,1
+		Drive Type		C400-MTFDDAC128MAM
+	CPU Test	156.66	
+		GCD Loop	263.96	13.91 Mops/sec
+		Floating Point Basic	125.85	2.99 Gflop/sec
+		vecLib FFT	103.35	3.41 Gflop/sec
+		Floating Point Library	242.52	42.23 Mops/sec
+	Memory Test	158.07	
+		System	188.53	
+			Allocate	1238.15	4.55 Malloc/sec
+			Fill	152.27	7403.94 MB/sec
+			Copy	117.13	2419.21 MB/sec
+		Stream	136.09	
+			Copy	130.83	2702.24 MB/sec
+			Scale	128.15	2647.50 MB/sec
+			Add	145.08	3090.58 MB/sec
+			Triad	141.78	3032.99 MB/sec
+	Quartz Graphics Test	230.97	
+		Line	233.60	15.55 Klines/sec [50% alpha]
+		Rectangle	267.02	79.72 Krects/sec [50% alpha]
+		Circle	211.93	17.28 Kcircles/sec [50% alpha]
+		Bezier	214.99	5.42 Kbeziers/sec [50% alpha]
+		Text	235.16	14.71 Kchars/sec
+	OpenGL Graphics Test	72.80	
+		Spinning Squares	72.80	92.35 frames/sec
+	User Interface Test	93.04	
+		Elements	93.04	426.98 refresh/sec
+	Disk Test	319.03	
+		Sequential	198.40	
+			Uncached Write	262.44	161.13 MB/sec [4K blocks]
+			Uncached Write	224.69	127.13 MB/sec [256K blocks]
+			Uncached Read	105.15	30.77 MB/sec [4K blocks]
+			Uncached Read	418.28	210.23 MB/sec [256K blocks]
+		Random	813.91	
+			Uncached Write	1048.56	111.00 MB/sec [4K blocks]
+			Uncached Write	402.60	128.89 MB/sec [256K blocks]
+			Uncached Read	2056.86	14.58 MB/sec [4K blocks]
+			Uncached Read	1009.20	187.26 MB/sec [256K blocks]

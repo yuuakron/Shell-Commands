@@ -1,0 +1,944 @@
+CrystalMark2004R3
+
+WIndows 7 Pro x64 SP1とWindows 8 Pro x64は別ディスクに入っている
+
+ハード構成：
+
+Cプ：	Core i5 2500(Kなし)
+
+グラボ：	Intel HD 2000
+
+マザボ：	Asrock H67DE3
+
+メモリ：	8G
+
+HDD(Windows 7)：WD WD5000AAKS	5400rpm
+
+HDD(Windows 8)：Hitachi HDT721010SLA360	7200rpm
+
+Platform : Windows XP on Windows 7 VMWare Player
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+CrystalMark 2004R3 [0.9.126.452] (C) 2001-2008 hiyohiyo
+                                  Crystal Dew World [http://crystalmark.info/]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+------------------------------------------------------------------------------
+CrystalMark Result
+------------------------------------------------------------------------------
+   Display Mode : 1440 x 900 32bit (Normal)
+
+    CrystalMark :  251145
+
+[ ALU ]            105193
+      Fibonacci :   21323
+      Napierian :   12792
+   Eratosthenes :   10748
+      QuickSort :   60308
+[ FPU ]             66666
+        MikoFPU :    2404
+     RandMeanSS :   40335
+            FFT :   13434
+     Mandelbrot :   10471
+[ MEM ]             61991
+           Read : 40527.58 MB/s ( 40527)
+          Write : 4937.24 MB/s (  4937)
+     Read/Write : 4964.36 MB/s (  4964)
+          Cache : 115418.39 MB/s ( 11541)
+[ HDD ]             12487
+           Read :   95.08 MB/s (  3803)
+          Write :   98.37 MB/s (  3934)
+ RandomRead512K :   37.60 MB/s (  1504)
+RandomWrite512K :   54.49 MB/s (  2179)
+ RandomRead 64K :    7.67 MB/s (   306)
+RandomWrite 64K :   19.03 MB/s (   761)
+[ GDI ]              2350
+           Text :     121
+         Square :     842
+         Circle :    1171
+         BitBlt :     216
+[ D2D ]              1417
+   Sprite    10 :  255.14 FPS  (    25)
+   Sprite   100 :  154.04 FPS  (   154)
+   Sprite   500 :   56.58 FPS  (   282)
+   Sprite  1000 :   30.31 FPS  (   303)
+   Sprite  5000 :    6.43 FPS  (   321)
+   Sprite 10000 :    3.32 FPS  (   332)
+[ OGL ]              1041
+  Scene 1 Score :     119
+  Lines (x1000) : (   5133)
+  Scene 1  CPUs : (      2)
+  Scene 2 Score :     922
+Polygons(x1000) : (  32586)
+  Scene 2  CPUs : (     16)
+
+------------------------------------------------------------------------------
+System Information
+------------------------------------------------------------------------------
+             OS : Windows XP Professional Service Pack 3 [5.1 Build 2600]
+   Display Mode : 1440 x 900 32bit 60Hz
+         Memory : 3072 MB
+        DirectX : 9.0c
+------------------------------------------------------------------------------
+CPU
+------------------------------------------------------------------------------
+       CPU Name : Intel 
+  Vendor String : GenuineIntel
+    Name String : Intel(R) Core(TM) i5-2500 CPU @ 3.30GHz
+       CPU Type : Original OEM processor
+Number(Logical) : 4
+         Family : 6
+          Model : A
+       Stepping : 7
+        Feature : MMX SSE SSE2 SSE3 SSSE3 SSE4.1 SSE4.2 XD Intel 64
+          Clock : 3292.54 MHz
+      Data Rate :    QDR
+------------------------------------------------------------------------------
+Device
+------------------------------------------------------------------------------
+        ChipSet : Intel 440BX/ZX/DX
+          North : Intel 82443BX/ZX/DX
+          South : Intel 82371AB/EB/MB (PIIX4)
+          Video : VMware SVGA II
+ IDE Controller : Intel(R) 82371AB/EB PCI Bus Master IDE Controller
+------------------------------------------------------------------------------
+HDD
+------------------------------------------------------------------------------
+Type Size    Model                                  ( Buffer Mode )     
+IDE   42.9GB VMware Virtual IDE Hard Drive              32KB Ultra DMA/33     
+
+
+Platform : Windows XP on Windows 7 Virtual PC
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+CrystalMark 2004R3 [0.9.126.452] (C) 2001-2008 hiyohiyo
+                                  Crystal Dew World [http://crystalmark.info/]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+------------------------------------------------------------------------------
+CrystalMark Result
+------------------------------------------------------------------------------
+   Display Mode : 1440 x 898 16bit (Normal)
+
+    CrystalMark :   84412
+
+[ ALU ]             18887
+      Fibonacci :    6650
+      Napierian :    3653
+   Eratosthenes :    2937
+      QuickSort :    5625
+[ FPU ]             19405
+        MikoFPU :    1681
+     RandMeanSS :   11354
+            FFT :    3570
+     Mandelbrot :    2778
+[ MEM ]             30859
+           Read : 10729.48 MB/s ( 10729)
+          Write : 10319.56 MB/s ( 10319)
+     Read/Write : 6129.33 MB/s (  6129)
+          Cache : 36600.60 MB/s (  3660)
+[ HDD ]             10826
+           Read :   90.18 MB/s (  3607)
+          Write :   65.26 MB/s (  2610)
+ RandomRead512K :   41.31 MB/s (  1652)
+RandomWrite512K :   49.57 MB/s (  1982)
+ RandomRead 64K :    8.37 MB/s (   334)
+RandomWrite 64K :   16.04 MB/s (   641)
+[ GDI ]              1076
+           Text :      45
+         Square :     140
+         Circle :     334
+         BitBlt :     557
+[ D2D ]              2108
+   Sprite    10 :  274.49 FPS  (    27)
+   Sprite   100 :   72.58 FPS  (    72)
+   Sprite   500 :   26.85 FPS  (   134)
+   Sprite  1000 :   19.76 FPS  (   197)
+   Sprite  5000 :   11.84 FPS  (   592)
+   Sprite 10000 :   10.86 FPS  (  1086)
+[ OGL ]              1251
+  Scene 1 Score :    1209
+  Lines (x1000) : ( 153711)
+  Scene 1  CPUs : (     32)
+  Scene 2 Score :      42
+Polygons(x1000) : (    308)
+  Scene 2  CPUs : (      1)
+
+------------------------------------------------------------------------------
+System Information
+------------------------------------------------------------------------------
+             OS : Windows XP Professional Service Pack 3 [5.1 Build 2600]
+   Display Mode : 1440 x 898 16bit
+         Memory : 3340 MB
+        DirectX : 9.0c
+------------------------------------------------------------------------------
+CPU
+------------------------------------------------------------------------------
+       CPU Name : Intel 
+  Vendor String : GenuineIntel
+    Name String : Intel(R) Core(TM) i5-2500 CPU @ 3.30GHz
+       CPU Type : Original OEM processor
+Number(Logical) : 1
+         Family : 6
+          Model : A
+       Stepping : 7
+        Feature : MMX SSE SSE2 XD
+          Clock : 3297.69 MHz
+      Data Rate :    QDR
+------------------------------------------------------------------------------
+Device
+------------------------------------------------------------------------------
+        ChipSet : Intel 440BX/ZX/DX
+          North : Intel 82443BX/ZX/DX
+          South : Intel 82371AB/EB/MB (PIIX4)
+          Video : S3 Trio 32/64/64V+
+ IDE Controller : Intel(R) 82371AB/EB PCI Bus Master IDE Controller
+------------------------------------------------------------------------------
+HDD
+------------------------------------------------------------------------------
+Type Size    Model                                  ( Buffer Mode )     
+IDE  136.3GB Virtual HD                                 64KB PIO / DMA        
+
+
+Platform : Windows XP on Windows 8 Hyper-V
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+CrystalMark 2004R3 [0.9.126.452] (C) 2001-2008 hiyohiyo
+                                  Crystal Dew World [http://crystalmark.info/]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+------------------------------------------------------------------------------
+CrystalMark Result
+------------------------------------------------------------------------------
+   Display Mode : 1152 x 864 16bit (Normal)
+
+    CrystalMark :  214464
+
+[ ALU ]             61501
+      Fibonacci :   20534
+      Napierian :   12493
+   Eratosthenes :   10280
+      QuickSort :   18172
+[ FPU ]             67590
+        MikoFPU :    6123
+     RandMeanSS :   38573
+            FFT :   12836
+     Mandelbrot :   10036
+[ MEM ]             44577
+           Read : 16974.23 MB/s ( 16974)
+          Write : 8532.73 MB/s (  8532)
+     Read/Write : 8435.43 MB/s (  8435)
+          Cache : 106149.65 MB/s ( 10614)
+[ HDD ]             13237
+           Read :  104.40 MB/s (  4088)
+          Write :   96.16 MB/s (  3846)
+ RandomRead512K :   43.58 MB/s (  1743)
+RandomWrite512K :   56.89 MB/s (  2275)
+ RandomRead 64K :   10.06 MB/s (   402)
+RandomWrite 64K :   22.08 MB/s (   883)
+[ GDI ]              1967
+           Text :     153
+         Square :     546
+         Circle :     808
+         BitBlt :     460
+[ D2D ]             23523
+   Sprite    10 : 1230.81 FPS  (   123)
+   Sprite   100 : 1081.58 FPS  (  1081)
+   Sprite   500 :  675.92 FPS  (  3379)
+   Sprite  1000 :  470.70 FPS  (  4707)
+   Sprite  5000 :  138.43 FPS  (  6921)
+   Sprite 10000 :   73.12 FPS  (  7312)
+[ OGL ]              2069
+  Scene 1 Score :    2015
+  Lines (x1000) : ( 255849)
+  Scene 1  CPUs : (     32)
+  Scene 2 Score :      54
+Polygons(x1000) : (    385)
+  Scene 2  CPUs : (      1)
+
+------------------------------------------------------------------------------
+System Information
+------------------------------------------------------------------------------
+             OS : Windows XP Professional Service Pack 3 [5.1 Build 2600]
+   Display Mode : 1152 x 864 16bit 60Hz
+         Memory : 3968 MB
+        DirectX : 9.0c
+------------------------------------------------------------------------------
+CPU
+------------------------------------------------------------------------------
+       CPU Name : Intel 
+  Vendor String : GenuineIntel
+    Name String : Intel(R) Core(TM) i5-2500 CPU @ 3.30GHz
+       CPU Type : Original OEM processor
+Number(Logical) : 4
+         Family : 6
+          Model : A
+       Stepping : 7
+        Feature : MMX SSE SSE2 SSE3 SSSE3 SSE4.1 SSE4.2 XD Intel 64
+          Clock : 3292.52 MHz
+      Data Rate :    QDR
+------------------------------------------------------------------------------
+Device
+------------------------------------------------------------------------------
+        ChipSet : Intel 440BX/ZX/DX
+          North : Intel 82443BX/ZX/DX
+          South : Intel 82371AB/EB/MB (PIIX4)
+          Video : Microsoft Corporation Unknown
+ IDE Controller : Intel(R) 82371AB/EB PCI Bus Master IDE Controller
+------------------------------------------------------------------------------
+HDD
+------------------------------------------------------------------------------
+Type Size    Model                                  ( Buffer Mode )     
+IDE   42.9GB Virtual HD                                 64KB PIO / DMA        
+
+
+Platform : Windows XP on Windows 8 VMWare Player
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+CrystalMark 2004R3 [0.9.126.452] (C) 2001-2008 hiyohiyo
+                                  Crystal Dew World [http://crystalmark.info/]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+------------------------------------------------------------------------------
+CrystalMark Result
+------------------------------------------------------------------------------
+   Display Mode : 1440 x 900 32bit (Normal)
+
+    CrystalMark :  214985
+
+[ ALU ]             62717
+      Fibonacci :   20330
+      Napierian :   13516
+   Eratosthenes :   10147
+      QuickSort :   18702
+[ FPU ]             71563
+        MikoFPU :    6503
+     RandMeanSS :   40789
+            FFT :   13591
+     Mandelbrot :   10658
+[ MEM ]             63322
+           Read : 36909.49 MB/s ( 36909)
+          Write : 6451.54 MB/s (  6451)
+     Read/Write : 6761.70 MB/s (  6761)
+          Cache : 131791.17 MB/s ( 13179)
+[ HDD ]             12605
+           Read :  101.69 MB/s (  4033)
+          Write :   98.78 MB/s (  3951)
+ RandomRead512K :   37.88 MB/s (  1515)
+RandomWrite512K :   51.65 MB/s (  2066)
+ RandomRead 64K :    8.16 MB/s (   326)
+RandomWrite 64K :   17.87 MB/s (   714)
+[ GDI ]              2182
+           Text :     166
+         Square :     873
+         Circle :    1080
+         BitBlt :      63
+[ D2D ]              1443
+   Sprite    10 :  241.30 FPS  (    24)
+   Sprite   100 :  156.16 FPS  (   156)
+   Sprite   500 :   58.78 FPS  (   293)
+   Sprite  1000 :   30.93 FPS  (   309)
+   Sprite  5000 :    6.59 FPS  (   329)
+   Sprite 10000 :    3.32 FPS  (   332)
+[ OGL ]              1153
+  Scene 1 Score :     121
+  Lines (x1000) : (   5133)
+  Scene 1  CPUs : (      2)
+  Scene 2 Score :    1032
+Polygons(x1000) : (  36327)
+  Scene 2  CPUs : (     16)
+
+------------------------------------------------------------------------------
+System Information
+------------------------------------------------------------------------------
+             OS : Windows XP Professional Service Pack 3 [5.1 Build 2600]
+   Display Mode : 1440 x 900 32bit 60Hz
+         Memory : 3072 MB
+        DirectX : 9.0c
+------------------------------------------------------------------------------
+CPU
+------------------------------------------------------------------------------
+       CPU Name : Intel 
+  Vendor String : GenuineIntel
+    Name String : Intel(R) Core(TM) i5-2500 CPU @ 3.30GHz
+       CPU Type : Original OEM processor
+Number(Logical) : 4
+         Family : 6
+          Model : A
+       Stepping : 7
+        Feature : MMX SSE SSE2 SSE3 SSSE3 SSE4.1 SSE4.2 XD Intel 64
+          Clock : 3292.54 MHz
+      Data Rate :    QDR
+------------------------------------------------------------------------------
+Device
+------------------------------------------------------------------------------
+        ChipSet : Intel 440BX/ZX/DX
+          North : Intel 82443BX/ZX/DX
+          South : Intel 82371AB/EB/MB (PIIX4)
+          Video : VMware SVGA II
+ IDE Controller : Intel(R) 82371AB/EB PCI Bus Master IDE Controller
+------------------------------------------------------------------------------
+HDD
+------------------------------------------------------------------------------
+Type Size    Model                                  ( Buffer Mode )     
+IDE   42.9GB VMware Virtual IDE Hard Drive              32KB Ultra DMA/33     
+
+
+Platform : Windows 7
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+CrystalMark 2004R3 [0.9.126.452] (C) 2001-2008 hiyohiyo
+                                  Crystal Dew World [http://crystalmark.info/]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+------------------------------------------------------------------------------
+CrystalMark Result
+------------------------------------------------------------------------------
+   Display Mode : 1440 x 900 32bit (ClearType)
+
+    CrystalMark :  224984
+
+[ ALU ]             71965
+      Fibonacci :   24771
+      Napierian :   13832
+   Eratosthenes :   11606
+      QuickSort :   21734
+[ FPU ]             63297
+        MikoFPU :    6591
+     RandMeanSS :   31840
+            FFT :   13982
+     Mandelbrot :   10862
+[ MEM ]             47825
+           Read : 18380.50 MB/s ( 18380)
+          Write : 8898.42 MB/s (  8898)
+     Read/Write : 8970.51 MB/s (  8970)
+          Cache : 115556.36 MB/s ( 11555)
+[ HDD ]             13674
+           Read :  103.98 MB/s (  4079)
+          Write :  102.36 MB/s (  4047)
+ RandomRead512K :   37.58 MB/s (  1503)
+RandomWrite512K :   72.24 MB/s (  2889)
+ RandomRead 64K :    7.37 MB/s (   294)
+RandomWrite 64K :   21.55 MB/s (   862)
+[ GDI ]             18785
+           Text :    6707
+         Square :    1879
+         Circle :    4947
+         BitBlt :    5252
+[ D2D ]              3628
+   Sprite    10 :  524.59 FPS  (    52)
+   Sprite   100 :  385.32 FPS  (   385)
+   Sprite   500 :  139.77 FPS  (   698)
+   Sprite  1000 :   78.29 FPS  (   782)
+   Sprite  5000 :   16.96 FPS  (   848)
+   Sprite 10000 :    8.63 FPS  (   863)
+[ OGL ]              5810
+  Scene 1 Score :    3675
+  Lines (x1000) : ( 541995)
+  Scene 1  CPUs : (     64)
+  Scene 2 Score :    2135
+Polygons(x1000) : (  90244)
+  Scene 2  CPUs : (     32)
+
+------------------------------------------------------------------------------
+System Information
+------------------------------------------------------------------------------
+             OS : Windows NT6.1 Business Service Pack 1 [6.1 Build 7601]
+   Display Mode : 1440 x 900 32bit 60Hz
+         Memory : 7913 MB
+        DirectX : 10.0
+------------------------------------------------------------------------------
+CPU
+------------------------------------------------------------------------------
+       CPU Name : Intel 
+  Vendor String : GenuineIntel
+    Name String : Intel(R) Core(TM) i5-2500 CPU @ 3.30GHz
+       CPU Type : Original OEM processor
+Number(Logical) : 4
+         Family : 6
+          Model : A
+       Stepping : 7
+        Feature : MMX SSE SSE2 SSE3 SSSE3 SSE4.1 SSE4.2 XD VT Intel 64
+          Clock : 3292.60 MHz
+      Data Rate :    QDR
+------------------------------------------------------------------------------
+Device
+------------------------------------------------------------------------------
+        ChipSet : Intel Unknown
+          North : Intel Unknown
+          South : Intel Unknown
+          Video : Intel Unknown
+ IDE Controller : 
+------------------------------------------------------------------------------
+HDD
+------------------------------------------------------------------------------
+Type Size    Model                                  ( Buffer Mode )     
+SATA 677.5GB ASB0                                   11170KB SATA/150         
+SATA 1000.2GB Hitachi HDT721010SLA360                  15001KB SATA/300         
+
+
+
+Platform : Windows 7 x86 on Windows 7 Virtual PC
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+CrystalMark 2004R3 [0.9.126.452] (C) 2001-2008 hiyohiyo
+                                  Crystal Dew World [http://crystalmark.info/]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+------------------------------------------------------------------------------
+CrystalMark Result
+------------------------------------------------------------------------------
+   Display Mode : 1440 x 898 32bit (ClearType)
+
+    CrystalMark :   96449
+
+[ ALU ]             19211
+      Fibonacci :    6756
+      Napierian :    3716
+   Eratosthenes :    3013
+      QuickSort :    5704
+[ FPU ]             16772
+        MikoFPU :    1706
+     RandMeanSS :    8593
+            FFT :    3638
+     Mandelbrot :    2813
+[ MEM ]             26755
+           Read : 9250.77 MB/s (  9250)
+          Write : 8778.09 MB/s (  8778)
+     Read/Write : 5317.35 MB/s (  5317)
+          Cache : 33881.85 MB/s (  3388)
+[ HDD ]             21012
+           Read :  173.96 MB/s (  5479)
+          Write :  161.37 MB/s (  5227)
+ RandomRead512K :   83.59 MB/s (  3343)
+RandomWrite512K :  116.35 MB/s (  4327)
+ RandomRead 64K :   16.85 MB/s (   674)
+RandomWrite 64K :   49.07 MB/s (  1962)
+[ GDI ]              2816
+           Text :     314
+         Square :     562
+         Circle :    1194
+         BitBlt :     746
+[ D2D ]              8967
+   Sprite    10 :  431.62 FPS  (    43)
+   Sprite   100 :  381.84 FPS  (   381)
+   Sprite   500 :  218.95 FPS  (  1094)
+   Sprite  1000 :  164.53 FPS  (  1645)
+   Sprite  5000 :   54.51 FPS  (  2725)
+   Sprite 10000 :   30.79 FPS  (  3079)
+[ OGL ]               916
+  Scene 1 Score :     880
+  Lines (x1000) : ( 112173)
+  Scene 1  CPUs : (     32)
+  Scene 2 Score :      36
+Polygons(x1000) : (    261)
+  Scene 2  CPUs : (      1)
+
+------------------------------------------------------------------------------
+System Information
+------------------------------------------------------------------------------
+             OS : Windows NT6.1 Business  [6.1 Build 7600]
+   Display Mode : 1440 x 898 32bit
+         Memory : 3040 MB
+        DirectX : 10.0
+------------------------------------------------------------------------------
+CPU
+------------------------------------------------------------------------------
+       CPU Name : Intel 
+  Vendor String : GenuineIntel
+    Name String : Intel(R) Core(TM) i5-2500 CPU @ 3.30GHz
+       CPU Type : Original OEM processor
+Number(Logical) : 1
+         Family : 6
+          Model : A
+       Stepping : 7
+        Feature : MMX SSE SSE2 XD
+          Clock : 3274.01 MHz
+      Data Rate :    QDR
+------------------------------------------------------------------------------
+Device
+------------------------------------------------------------------------------
+        ChipSet : Intel 440BX/ZX/DX
+          North : Intel 82443BX/ZX/DX
+          South : Intel 82371AB/EB/MB (PIIX4)
+          Video : S3 Trio 32/64/64V+
+ IDE Controller : 
+------------------------------------------------------------------------------
+HDD
+------------------------------------------------------------------------------
+Type Size    Model                                  ( Buffer Mode )     
+IDE  136.3GB Virtual HD                                 64KB PIO / DMA        
+
+
+
+Platform : Windows 7 on Windows 7 VMWare Player
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+CrystalMark 2004R3 [0.9.126.452] (C) 2001-2008 hiyohiyo
+                                  Crystal Dew World [http://crystalmark.info/]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+------------------------------------------------------------------------------
+CrystalMark Result
+------------------------------------------------------------------------------
+   Display Mode : 1440 x 900 32bit (ClearType)
+
+    CrystalMark :  221567
+
+[ ALU ]             68630
+      Fibonacci :   23360
+      Napierian :   13229
+   Eratosthenes :   11066
+      QuickSort :   20953
+[ FPU ]             60302
+        MikoFPU :    6312
+     RandMeanSS :   30375
+            FFT :   13199
+     Mandelbrot :   10394
+[ MEM ]             73271
+           Read : 43748.05 MB/s ( 43748)
+          Write : 8372.61 MB/s (  8372)
+     Read/Write : 8425.67 MB/s (  8425)
+          Cache : 127044.37 MB/s ( 12704)
+[ HDD ]              9452
+           Read :   63.59 MB/s (  2543)
+          Write :   70.93 MB/s (  2837)
+ RandomRead512K :   33.79 MB/s (  1351)
+RandomWrite512K :   44.55 MB/s (  1782)
+ RandomRead 64K :    7.88 MB/s (   315)
+RandomWrite 64K :   15.61 MB/s (   624)
+[ GDI ]              7558
+           Text :    2859
+         Square :     543
+         Circle :    1663
+         BitBlt :    2493
+[ D2D ]              1280
+   Sprite    10 :   28.86 FPS  (     2)
+   Sprite   100 :   27.62 FPS  (    27)
+   Sprite   500 :   23.36 FPS  (   116)
+   Sprite  1000 :   19.62 FPS  (   196)
+   Sprite  5000 :    8.65 FPS  (   432)
+   Sprite 10000 :    5.07 FPS  (   507)
+[ OGL ]              1074
+  Scene 1 Score :     196
+  Lines (x1000) : (  12480)
+  Scene 1  CPUs : (      4)
+  Scene 2 Score :     878
+Polygons(x1000) : (  30889)
+  Scene 2  CPUs : (     16)
+
+------------------------------------------------------------------------------
+System Information
+------------------------------------------------------------------------------
+             OS : Windows NT6.1 Business Service Pack 1 [6.1 Build 7601]
+   Display Mode : 1440 x 900 32bit 60Hz
+         Memory : 6080 MB
+        DirectX : 10.0
+------------------------------------------------------------------------------
+CPU
+------------------------------------------------------------------------------
+       CPU Name : Intel 
+  Vendor String : GenuineIntel
+    Name String : Intel(R) Core(TM) i5-2500 CPU @ 3.30GHz
+       CPU Type : Original OEM processor
+Number(Logical) : 4
+         Family : 6
+          Model : A
+       Stepping : 7
+        Feature : MMX SSE SSE2 SSE3 SSSE3 SSE4.1 SSE4.2 XD Intel 64
+          Clock : 3292.61 MHz
+      Data Rate :    QDR
+------------------------------------------------------------------------------
+Device
+------------------------------------------------------------------------------
+        ChipSet : Intel 440BX/ZX/DX
+          North : Intel 82443BX/ZX/DX
+          South : Intel 82371AB/EB/MB (PIIX4)
+          Video : VMware SVGA II
+ IDE Controller : 
+------------------------------------------------------------------------------
+HDD
+------------------------------------------------------------------------------
+Type Size    Model                                  ( Buffer Mode )     
+
+
+
+Platform : Windows 8
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+CrystalMark 2004R3 [0.9.126.452] (C) 2001-2008 hiyohiyo
+                                  Crystal Dew World [http://crystalmark.info/]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+------------------------------------------------------------------------------
+CrystalMark Result
+------------------------------------------------------------------------------
+   Display Mode : 1440 x 900 32bit (ClearType)
+
+    CrystalMark :  229695
+
+[ ALU ]             72337
+      Fibonacci :   24840
+      Napierian :   14012
+   Eratosthenes :   11671
+      QuickSort :   21792
+[ FPU ]             67548
+        MikoFPU :    6592
+     RandMeanSS :   36037
+            FFT :   14030
+     Mandelbrot :   10867
+[ MEM ]             49730
+           Read : 18454.24 MB/s ( 18454)
+          Write : 8949.80 MB/s (  8949)
+     Read/Write : 8987.23 MB/s (  8987)
+          Cache : 133182.91 MB/s ( 13318)
+[ HDD ]             12184
+           Read :  103.24 MB/s (  4064)
+          Write :   86.18 MB/s (  3447)
+ RandomRead512K :   41.97 MB/s (  1678)
+RandomWrite512K :   49.39 MB/s (  1975)
+ RandomRead 64K :    7.82 MB/s (   312)
+RandomWrite 64K :   17.70 MB/s (   708)
+[ GDI ]             19795
+           Text :    7263
+         Square :    1919
+         Circle :    5052
+         BitBlt :    5561
+[ D2D ]              2674
+   Sprite    10 :  264.64 FPS  (    26)
+   Sprite   100 :  206.95 FPS  (   206)
+   Sprite   500 :   98.62 FPS  (   493)
+   Sprite  1000 :   54.82 FPS  (   548)
+   Sprite  5000 :   13.78 FPS  (   689)
+   Sprite 10000 :    7.12 FPS  (   712)
+[ OGL ]              5427
+  Scene 1 Score :    3332
+  Lines (x1000) : ( 492297)
+  Scene 1  CPUs : (     64)
+  Scene 2 Score :    2095
+Polygons(x1000) : (  88671)
+  Scene 2  CPUs : (     32)
+
+------------------------------------------------------------------------------
+System Information
+------------------------------------------------------------------------------
+             OS : Windows NT6.2 Business  [6.2 Build 9200]
+   Display Mode : 1440 x 900 32bit 60Hz
+         Memory : 7913 MB
+        DirectX : 11.0
+------------------------------------------------------------------------------
+CPU
+------------------------------------------------------------------------------
+       CPU Name : Intel 
+  Vendor String : GenuineIntel
+    Name String : Intel(R) Core(TM) i5-2500 CPU @ 3.30GHz
+       CPU Type : Original OEM processor
+Number(Logical) : 4
+         Family : 6
+          Model : A
+       Stepping : 7
+        Feature : MMX SSE SSE2 SSE3 SSSE3 SSE4.1 SSE4.2 XD VT Intel 64
+          Clock : 3292.51 MHz
+      Data Rate :    QDR
+------------------------------------------------------------------------------
+Device
+------------------------------------------------------------------------------
+        ChipSet : Intel Unknown
+          North : Intel Unknown
+          South : Intel Unknown
+          Video : Intel Unknown
+ IDE Controller : 
+------------------------------------------------------------------------------
+HDD
+------------------------------------------------------------------------------
+Type Size    Model                                  ( Buffer Mode )     
+SATA   0.0GB                                          32767KB SATA/150         
+SATA 1000.2GB Hitachi HDT721010SLA360                  15001KB SATA/300         
+
+Platform : Windows 7 on Windows 8 Hyper-V
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+CrystalMark 2004R3 [0.9.126.452] (C) 2001-2008 hiyohiyo
+                                  Crystal Dew World [http://crystalmark.info/]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+------------------------------------------------------------------------------
+CrystalMark Result
+------------------------------------------------------------------------------
+   Display Mode : 1152 x 864 16bit (ClearType)
+
+    CrystalMark :  222462
+
+[ ALU ]             68684
+      Fibonacci :   23723
+      Napierian :   13185
+   Eratosthenes :   11076
+      QuickSort :   20678
+[ FPU ]             60324
+        MikoFPU :    6249
+     RandMeanSS :   30456
+            FFT :   13224
+     Mandelbrot :   10373
+[ MEM ]             45606
+           Read : 17746.66 MB/s ( 17746)
+          Write : 8697.92 MB/s (  8697)
+     Read/Write : 8705.46 MB/s (  8705)
+          Cache : 104360.73 MB/s ( 10436)
+[ HDD ]             11828
+           Read :   98.97 MB/s (  3958)
+          Write :   80.04 MB/s (  3201)
+ RandomRead512K :   40.94 MB/s (  1637)
+RandomWrite512K :   50.37 MB/s (  2014)
+ RandomRead 64K :    8.12 MB/s (   324)
+RandomWrite 64K :   17.35 MB/s (   694)
+[ GDI ]              8159
+           Text :    2360
+         Square :    1140
+         Circle :    2406
+         BitBlt :    2253
+[ D2D ]             25724
+   Sprite    10 : 2122.57 FPS  (   212)
+   Sprite   100 : 1631.62 FPS  (  1631)
+   Sprite   500 :  826.86 FPS  (  4134)
+   Sprite  1000 :  532.58 FPS  (  5325)
+   Sprite  5000 :  141.25 FPS  (  7062)
+   Sprite 10000 :   73.60 FPS  (  7360)
+[ OGL ]              2137
+  Scene 1 Score :    2069
+  Lines (x1000) : ( 261774)
+  Scene 1  CPUs : (     32)
+  Scene 2 Score :      68
+Polygons(x1000) : (    492)
+  Scene 2  CPUs : (      1)
+
+------------------------------------------------------------------------------
+System Information
+------------------------------------------------------------------------------
+             OS : Windows NT6.1 Business Service Pack 1 [6.1 Build 7601]
+   Display Mode : 1152 x 864 16bit 60Hz
+         Memory : 5644 MB
+        DirectX : 10.0
+------------------------------------------------------------------------------
+CPU
+------------------------------------------------------------------------------
+       CPU Name : Intel 
+  Vendor String : GenuineIntel
+    Name String : Intel(R) Core(TM) i5-2500 CPU @ 3.30GHz
+       CPU Type : Original OEM processor
+Number(Logical) : 4
+         Family : 6
+          Model : A
+       Stepping : 7
+        Feature : MMX SSE SSE2 SSE3 SSSE3 SSE4.1 SSE4.2 XD Intel 64
+          Clock : 3274.51 MHz
+      Data Rate :    QDR
+------------------------------------------------------------------------------
+Device
+------------------------------------------------------------------------------
+        ChipSet : Intel 440BX/ZX/DX
+          North : Intel 82443BX/ZX/DX
+          South : Intel 82371AB/EB/MB (PIIX4)
+          Video : Microsoft Corporation Unknown
+ IDE Controller : 
+------------------------------------------------------------------------------
+HDD
+------------------------------------------------------------------------------
+Type Size    Model                                  ( Buffer Mode )     
+IDE  136.3GB Virtual HD                                 64KB PIO / DMA        
+
+
+
+Platform : Windows 7 on Windows 8 VMware Player
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+CrystalMark 2004R3 [0.9.126.452] (C) 2001-2008 hiyohiyo
+                                  Crystal Dew World [http://crystalmark.info/]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+------------------------------------------------------------------------------
+CrystalMark Result
+------------------------------------------------------------------------------
+   Display Mode : 1440 x 900 32bit (ClearType)
+
+    CrystalMark :  231340
+
+[ ALU ]             70753
+      Fibonacci :   24303
+      Napierian :   13661
+   Eratosthenes :   11413
+      QuickSort :   21354
+[ FPU ]             61951
+        MikoFPU :    6456
+     RandMeanSS :   31154
+            FFT :   13677
+     Mandelbrot :   10642
+[ MEM ]             78756
+           Read : 47237.83 MB/s ( 47237)
+          Write : 8623.64 MB/s (  8623)
+     Read/Write : 8617.29 MB/s (  8617)
+          Cache : 142571.78 MB/s ( 14257)
+[ HDD ]              9334
+           Read :   70.38 MB/s (  2815)
+          Write :   62.67 MB/s (  2506)
+ RandomRead512K :   36.86 MB/s (  1474)
+RandomWrite512K :   40.60 MB/s (  1624)
+ RandomRead 64K :    7.76 MB/s (   310)
+RandomWrite 64K :   15.14 MB/s (   605)
+[ GDI ]              7592
+           Text :    2926
+         Square :     559
+         Circle :    1649
+         BitBlt :    2458
+[ D2D ]              1776
+   Sprite    10 :   44.50 FPS  (     4)
+   Sprite   100 :   59.75 FPS  (    59)
+   Sprite   500 :   43.33 FPS  (   216)
+   Sprite  1000 :   32.45 FPS  (   324)
+   Sprite  5000 :   11.16 FPS  (   558)
+   Sprite 10000 :    6.15 FPS  (   615)
+[ OGL ]              1178
+  Scene 1 Score :     179
+  Lines (x1000) : (  11643)
+  Scene 1  CPUs : (      4)
+  Scene 2 Score :     999
+Polygons(x1000) : (  35177)
+  Scene 2  CPUs : (     16)
+
+------------------------------------------------------------------------------
+System Information
+------------------------------------------------------------------------------
+             OS : Windows NT6.1 Business Service Pack 1 [6.1 Build 7601]
+   Display Mode : 1440 x 900 32bit 60Hz
+         Memory : 6080 MB
+        DirectX : 10.0
+------------------------------------------------------------------------------
+CPU
+------------------------------------------------------------------------------
+       CPU Name : Intel 
+  Vendor String : GenuineIntel
+    Name String : Intel(R) Core(TM) i5-2500 CPU @ 3.30GHz
+       CPU Type : Original OEM processor
+Number(Logical) : 4
+         Family : 6
+          Model : A
+       Stepping : 7
+        Feature : MMX SSE SSE2 SSE3 SSSE3 SSE4.1 SSE4.2 XD Intel 64
+          Clock : 3293.12 MHz
+      Data Rate :    QDR
+------------------------------------------------------------------------------
+Device
+------------------------------------------------------------------------------
+        ChipSet : Intel 440BX/ZX/DX
+          North : Intel 82443BX/ZX/DX
+          South : Intel 82371AB/EB/MB (PIIX4)
+          Video : VMware SVGA II
+ IDE Controller : 
+------------------------------------------------------------------------------
+HDD
+------------------------------------------------------------------------------
+Type Size    Model                                  ( Buffer Mode )     
